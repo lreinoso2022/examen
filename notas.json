@@ -1,0 +1,32 @@
+{
+   "maestria":[{
+	"alumno":"Lucía","nota":9.09,"ranking":145
+},{
+	"alumno":"Juan","nota":4,"ranking":50
+	
+},{
+	"alumno":"Manuel","nota":6.5,"ranking":120
+	
+},{
+	"alumno":"Daniel","nota":8,"ranking":130
+	
+},{
+	"alumno":"José","nota":7,"ranking":120
+	
+},{
+	"alumno":"Angelica","nota":5.5,"ranking":80
+	
+},{
+	"alumno":"Monica","nota":9,"ranking":140
+	
+},{
+	"alumno":"Lorena","nota":6,"ranking":110
+	
+},{
+	"alumno":"Sandra","nota":10,"ranking":150
+	
+},{
+	"alumno":"Samuel","nota":5,"ranking":70
+} 
+]
+}
